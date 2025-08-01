@@ -4,6 +4,7 @@ Lung Nodule Segmentation and Detection Using Adaptive Thresholding and Watershed
 This repository contains MATLAB codes and resources for an automated pipeline to segment, detect, and classify lung nodules from CT scan images. The project leverages a combination of classical image processing techniques and deep learning (CNN) to facilitate early lung cancer detection.
 
 Project Overview
+
 Segmentation & Detection:
 The project implements a robust workflow for lung and nodule segmentation from thoracic CT scans using adaptive thresholding, morphological operations, and marker-based watershed transform. Detected nodules are further measured and analyzed for clinical relevance.
 
